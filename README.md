@@ -6,7 +6,10 @@ Repo for Lab 08 Submissions of IT24103038 - Gunawardana M.A.A. for the SE3090 - 
 
 ```
 campuseats-task-tracker/
-├── src/            # Spring Boot API
+├── .github/
+│   	└── workflows
+│   			└── ci.yml
+├── src/
 │   └── tasks.js
 ├── .gitignore
 └── README.md
